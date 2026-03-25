@@ -34,13 +34,13 @@ int main() {
 ```
 
 ## OUTPUT:
-
+```
 Enter three characters:
 A
 B
 C
 Characters in reverse order: C B A
-
+```
 ## RESULT:
 
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
@@ -84,10 +84,10 @@ int main() {
 ```
 
 # OUTPUT:
-
+```
 Enter a value: 5
 5 is a positive number
-
+```
 # RESULT:
 
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
@@ -133,11 +133,11 @@ int main() {
 ```
 
 ## OUTPUT:
-
+```
 Enter first fraction (numerator and denominator): 1 2
 Enter second fraction (numerator and denominator): 3 4
 Minimum fraction is 1/2
-
+```
 ## RESULT:
 
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
@@ -178,10 +178,10 @@ int main() {
 ```
 
 ## OUTPUT:
-
+```
 Enter a value: 1
 Value is equal to 1
-
+```
 ## RESULT:
 
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
@@ -249,12 +249,12 @@ int main() {
 ```
 
 ## OUTPUT:
-
+```
 Enter marks of three subjects: 75 80 70
 Total = 225
 Percentage = 75.00
 Division: First Division
-
+```
 ## RESULT:
 
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
